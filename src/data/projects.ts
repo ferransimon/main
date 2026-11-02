@@ -12,7 +12,7 @@ export const projects: Project[] = [
   {
     slug: "closet-game",
     name: "closet-game",
-    description: "Juego de ordenar prendas",
+    description: "Ordena comida saludable y no saludable",
     url: "https://closet-game-six.vercel.app/",
     category: "game",
   },
@@ -42,6 +42,13 @@ export const projects: Project[] = [
     name: "my-pdf",
     description: "Editor de PDFs en local",
     url: "https://my-pdf-online.vercel.app/",
+    category: "tool",
+  },
+  {
+    slug: "rol-dice-roll",
+    name: "rol-dice-roll",
+    description: "Tirador de dados para partidas de rol",
+    url: "https://rol-dice-roll.vercel.app/",
     category: "tool",
   },
 ];
