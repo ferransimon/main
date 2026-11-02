@@ -31,6 +31,13 @@ export const projects: Project[] = [
     category: "game",
   },
   {
+    slug: "read-game",
+    name: "read-game",
+    description: "Lectura, comprensión lectora y ortografía para primaria",
+    url: "https://read-game.vercel.app/",
+    category: "game",
+  },
+  {
     slug: "qrify",
     name: "qrify",
     description: "Generador de códigos QR",
